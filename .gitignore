@@ -1,3 +1,10 @@
+.vscode
+# Ignore Python virtual environment
+agentic_rag/.venv/
+
+# Ignore old files/folder
+agentic_rag/old/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
